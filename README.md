@@ -1,6 +1,6 @@
 # TO DO APP
 ## Fimple React Bootcamp Week 3 Assignment
-- This project is an assignment as part of [Patika](patika.dev) Fimple React Bootcamp. 
+- This project is an assignment as part of [Patika](https://www.patika.dev/tr) Fimple React Bootcamp. 
 - TO DO APP is developed with using React.
 
 ## User Interface
